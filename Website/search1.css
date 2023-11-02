@@ -1,0 +1,28 @@
+#he-1:hover{
+	color:red;
+
+}
+
+#img-1{
+	margin-top: 5%;
+	margin-left: 40%;
+	height: 130px;
+	width: 235px;
+}
+#input-1{
+	margin-left: 37.5%;
+	width: 255px;
+	margin-top: 3%;
+	height: 20px;
+}
+#input-2{
+	height: 21px;
+	width: 120px;
+
+}
+body{
+	background-image: url("file:///C:/Users/tanej/OneDrive/Desktop/Website/bg-6.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+/*	background-color: lightcyan;*/
+}
